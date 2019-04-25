@@ -3,7 +3,7 @@ class Alfred < Formula
   homepage "https://github.com/cryptohodlers/alfred"
   url "https://github.com/cryptohodlers/alfred/archive/master.zip"
   version "0.1.10"
-  sha256 "551f65f170e933ceaed91d512122fd73caa7e09675df5330e02c6f21e0c02303"
+  sha256 "0157f09205ad45684701ff55b5b10288cc032804e334b59d4024a1593bb76ab6"
 
   def install
     bin.install "alfred"
